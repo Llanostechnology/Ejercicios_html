@@ -1,1 +1,1 @@
-Estrutura y etiquetas en HTML.5
+Estructura y etiquetas en HTML.5
